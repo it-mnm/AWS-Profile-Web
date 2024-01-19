@@ -12,10 +12,6 @@
 ---
 
 ## 🙋🏻나는 무엇을 했는가?
-
-- 프로젝트 일지
-    
-    [프로필 페이지 제작](https://www.notion.so/15ff514d0f084e0ab201eb01814f0a4d?pvs=21)
     
 
 1. html 웹페이지 제작하였습니다.
@@ -496,17 +492,18 @@
             </body>
         </html>
         ```
-        
-    
+
+
+
 2. AWS 환경에서 정적 웹을 배포하였습니다.
     - Architecture
+      <img src="https://github.com/it-mnm/profile/assets/137988290/e67e9fbe-1e4a-4e35-8c7c-3e2e1568f5bf">
         
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/053717f5-036c-4ec3-8a26-1835da8b19b8/Untitled.png)
         
     - 배포된 사진
         - S3(React 웹)
+            <img src="https://github.com/it-mnm/profile/assets/137988290/eab31aeb-7dea-4e99-a00d-e6fa7061aa7d">
             
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df3849f7-f233-4fe8-88e6-7e7528b6fb56/91120eaa-db89-49aa-bed3-ac7b96d26a8f/Untitled.png)
             
         
     
